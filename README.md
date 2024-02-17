@@ -1,9 +1,5 @@
 # Tutorial de manejo de imágenes con Cloudinary en Java
 
-
-**ÍNDICE**
-
-
 ## 1 - Crear cuenta en Cloudinary
 
 Ir a la web de [**Cloudinary**](https://cloudinary.com/users/register_free "ir al sitio web de Cloudinary") y registrarse o iniciar sesión con cuenta de Google.<br>
@@ -208,11 +204,15 @@ En el campo "Key" escribir "imagen". Elegir la opción "File" en el desplegable 
 ![image](https://github.com/nzaeta/Cloudinary/assets/106348660/68f36b27-3638-43cf-b5df-5ca4e4460eb5)
 
 
+<br>
 
+## PARA EJECUTAR EL PROYECTO DE ESTE REPOSITORIO:
 
+- Crear una base de datos de nombre "cloudinary".
+- Revisar en application.properties las credenciales de acceso (por defecto username: root, password: root)
+- Completa los valores de cloud_name, api_key y api_secret y el nombre de la carpeta para guardar las imágenes. (VER PASO #3)
 
-
-
+<br>
 
 
 
